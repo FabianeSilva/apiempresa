@@ -9,10 +9,10 @@ Este projeto é uma API que foi baseado no diagrama de classes, abaixo, utilizan
 - Retornar uma lista de todas as empresas cadastradas,
 - Retornar uma empresa cadastrada, filtrando por código, retornando "OK - Tarefa Encontrada", "ERRO - Tarefa não localizada" ou "Erro Inesperado,
 - Cadastrar novas empresas.
-- Deletar uma empresa.
+- Deletar uma empresa cadastrada.
 
 ## Ferramenta utilizada para realização de testes
-Para verificar se o código estava funcionando corretamente foi utilizada a Ferramenta POSTMAN, apresentando a mensagem abaixo relacionado no Body do cadastro:
+Para verificar se o código estava funcionando corretamente foi utilizada a Ferramenta POSTMAN e SWAGGER, apresentando a mensagem abaixo relacionado no Body do cadastro:
 
 {
     
